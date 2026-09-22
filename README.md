@@ -4,8 +4,8 @@ Mod de Geode para Geometry Dash que muestra un reto aleatorio al entrar en un ni
 
 ## Datos del mod
 
-- **ID:** retos.challenge.v2
-- **Versión:** 1.2.0
+- **ID:** jolaf.retosenivel
+- **Versión:** 1.2.1
 - **Desarrollador:** Jolaf
 - **Geometry Dash:** Android 2.2081
 - **Geode:** 5.10.1
@@ -13,11 +13,11 @@ Mod de Geode para Geometry Dash que muestra un reto aleatorio al entrar en un ni
 
 ## Descarga
 
-Descarga la versión 1.2.0 desde la [release v1.2.0](https://github.com/jolafgdps-art/retos-en-nivel/releases/tag/v1.2.0) o directamente desde [retos.challenge.v2-1.2.0.geode](https://github.com/jolafgdps-art/retos-en-nivel/raw/v1.2.0/releases/retos.challenge.v2-1.2.0.geode).
+Descarga la versión 1.2.1 desde la [release v1.2.1](https://github.com/jolafgdps-art/retos-en-nivel/releases/tag/v1.2.1) o directamente desde [jolaf.retosenivel-1.2.1.geode](https://github.com/jolafgdps-art/retos-en-nivel/raw/v1.2.1/releases/jolaf.retosenivel-1.2.1.geode).
 
 ## Código fuente
 
-El código fuente del mod está disponible públicamente en [retos-en-nivel-geode](https://github.com/jolafgdps-art/retos-en-nivel-geode), incluyendo src/main.cpp, CMakeLists.txt y mod.json.
+El código fuente está disponible públicamente en [retos-en-nivel-geode](https://github.com/jolafgdps-art/retos-en-nivel-geode), incluyendo src/main.cpp, CMakeLists.txt y mod.json.
 
 ## Instalación
 
