@@ -13,7 +13,7 @@ Mod de Geode para Geometry Dash que muestra un reto aleatorio al entrar en un ni
 
 ## Descarga
 
-[Descargar el archivo .geode](https://github.com/jolafgdps-art/retos-en-nivel/raw/main/releases/retos-en-nivel-android-2.2081-jolaf.geode)
+[Descargar el archivo .geode](https://github.com/jolafgdps-art/retos-en-nivel/raw/refs/heads/main/releases/Retos-en-Nivel-1.2.3-android64.geode)
 
 Este archivo fue subido tal como fue recibido, sin modificar su contenido.
 
